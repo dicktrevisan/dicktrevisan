@@ -8,6 +8,15 @@ Um pequeno texto com caixa
 
 ```vamos vamos acordar vamos acordaaaar, vamos vamos acordar vamos acordar hahahaha vamos nessa pessoal vamos nessa hehehehe. Meu nome irá aparecer agora para vocês aqui.```
 
+```
+#include <stdio.h>
+
+int main (){
+	printf("HEllo World");
+	return 0;
+}
+```
+
 >"vamos vamos acordar vamos acordaaaar, vamos vamos acordar vamos acordar hahahaha vamos nessa pessoal vamos nessa hehehehe. Meu nome irá aparecer agora para vocês aqui."
 <!--
 **dicktrevisan/dicktrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
