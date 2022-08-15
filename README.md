@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+A seguir veremos algumas citações.
+>Citação inicial começa aqui.
 <!--
 **dicktrevisan/dicktrevisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
