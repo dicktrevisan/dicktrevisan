@@ -6,7 +6,7 @@ A seguir veremos algumas citações.
 
 Um pequeno texto com caixa
 
-"vamos vamos acordar vamos acordaaaar, vamos vamos acordar vamos acordar hahahaha vamos nessa pessoal vamos nessa hehehehe. Meu nome irá aparecer agora para vocês aqui."
+`vamos vamos acordar vamos acordaaaar, vamos vamos acordar vamos acordar hahahaha vamos nessa pessoal vamos nessa hehehehe. Meu nome irá aparecer agora para vocês aqui.`
 
 >"vamos vamos acordar vamos acordaaaar, vamos vamos acordar vamos acordar hahahaha vamos nessa pessoal vamos nessa hehehehe. Meu nome irá aparecer agora para vocês aqui."
 <!--
